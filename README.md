@@ -1,33 +1,76 @@
-<h1 align="center">Hi 👋, I'm Shivansh agarwal</h1>
-<h3 align="center">Growth-Oriented Full Stack Web developer from Bikaner, Rajasthan, India. Hands-on experience with more than 1300+ hours of coding and 200+ hours of DSA.</h3>
-<img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Hi there! I'm Shivansh Agarwal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+ <br> 
+ 
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=b440e2&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)
+ 
+ 
+ <h3 align="center" margin="0px">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h3>
+ 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shvnshgrwl&label=Profile%20views&color=0e75b6&style=flat" alt="shvnshgrwl" /> </p>
 
+### 👨🏻‍💻 About Me:
 
+<img   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+       height="200px" width="auto" align="right"
+      />
 
-<p align="left"> <a href="https://twitter.com/shivanshagarwl1" target="blank"><img src="https://img.shields.io/twitter/follow/shivanshagarwl1?logo=twitter&style=for-the-badge" alt="shivanshagarwl1" /></a> </p>
+- 🌱 I’m currently learning **Full stack web Development**
 
-- 🌱 I’m currently learning **React**
+- 🙋‍♂️ All about me is at **[My Website](https://shvnshgrwl.github.io/)**
 
-- 💬 Ask me about **React, JavaScript, HTML, CSS, MERN**
+- 💓 I love designing websites and coding.
+
+- 💬 Ask me about **HTML,CSS,Javascript,Node JS, Reaact**
+
+- ⚡ Fun fact **Time, Tide and JavaScript waits for none.**
 
 - 📫 How to reach me **shvnshgrwl1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cad3yToy75HS85CUBAyOoW0BDGHEYg_v/view?usp=sharing](https://drive.google.com/file/d/1cad3yToy75HS85CUBAyOoW0BDGHEYg_v/view?usp=sharing)
+<br>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shivanshagarwl1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivanshagarwl1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivansh agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivansh agarwal" height="30" width="40" /></a>
-<a href="https://instagram.com/shivansh_021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivansh_021" height="30" width="40" /></a>
+ <h4 align="center">"Programming is not a science. Programming is a craft" - <i>Richard Stallman</i></h4>
+
+<br>
+<h2 align="center"><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2>
+<p align="center">
+  <a >
+    <img src="https://skillicons.dev/icons?i=html,css,js,redux,express,materialui,nodejs," />
+  </a>
+</p>
+<!-- <img src="" alt="" /> -->
+<h2 align="center"><i>Tools | Use</i></h2>
+<p align="center">
+  <a >
+    <img src="https://skillicons.dev/icons?i=bash,codepen,git,github,netlify,powershell,vscode,visualstudio," />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+<h2 align="center"><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shvnshgrwl&show_icons=true&locale=en&layout=compact" alt="shvnshgrwl" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivansh-agarwal-653978111/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+  <a title="shvnshgrwl1@gmail.com" href="mailto:manoranjansethi97@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
+  <a href="https://wa.me/919660680092" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
+  
+</p>
+<h2>📊  Github Stats</h2>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shvnshgrwl&show_icons=true&locale=en" alt="shvnshgrwl" /></p>
+<div>
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=shvnshgrwl&show_icons=true&theme=midnight-purple" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shvnshgrwl&layout=compact&theme=midnight-purple" />
+</div>
+ <br />
+<!-- <p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Manoranjan-Sethi&theme=rogue" alt="activitygraph" /> </p> -->
+<br />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shvnshgrwl&theme=vision-friendly-dark" alt=""/></p>
+<!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Manoranjan-Sethi&no-frame=true" alt=""/></p> -->
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shvnshgrwl&theme=tokyonight" alt="summarycard"/> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shvnshgrwl&" alt="shvnshgrwl" /></p>
+<hr />
+
+<h3 align="center">
+ Show some ❤️ by starring some of the repositories!
+</h3>
+<br>
