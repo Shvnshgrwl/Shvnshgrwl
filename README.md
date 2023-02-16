@@ -1,28 +1,76 @@
-### Hi Developers 👋
-<a href="https://shvnshgrwl.github.io/" target="text-decoration:none"><img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
+<h1 align="center">Hi there! I'm Shivansh Agarwal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+ <br> 
+ 
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=b440e2&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)
+ 
+ 
+ <h3 align="center" margin="0px">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h3>
+ 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Shivansh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivansh-agarwal-653978111/)](https://www.linkedin.com/in/shivansh-agarwal-653978111/)
+### 👨🏻‍💻 About Me:
 
+<img   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+       height="200px" width="auto" align="right"
+      />
 
+- 🌱 I’m currently learning **Full stack web Development**
 
+- 🙋‍♂️ All about me is at **[My Website](https://shvnshgrwl.github.io/)**
 
-I'm
-Full Stack Solution Architect.
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include front-end development using open source technologies, design (working closely with designers), front-end development ( HTML5, CSS3, Javascript, React).
+- 💓 I love designing websites and coding.
 
+- 💬 Ask me about **HTML,CSS,Javascript,Node JS, Reaact**
 
-![Visitor Count](https://profile-counter.glitch.me/shvnshgrwl/count.svg)
+- ⚡ Fun fact **Time, Tide and JavaScript waits for none.**
+
+- 📫 How to reach me **shvnshgrwl1@gmail.com**
+
+<br>
+<br>
+
+ <h4 align="center">"Programming is not a science. Programming is a craft" - <i>Richard Stallman</i></h4>
+
+<br>
+<h2 align="center"><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2>
+<p align="center">
+  <a >
+    <img src="https://skillicons.dev/icons?i=html,css,js,redux,express,materialui,nodejs," />
+  </a>
+</p>
+<!-- <img src="" alt="" /> -->
+<h2 align="center"><i>Tools | Use</i></h2>
+<p align="center">
+  <a >
+    <img src="https://skillicons.dev/icons?i=bash,codepen,git,github,netlify,powershell,vscode,visualstudio," />
+  </a>
+</p>
+
+<h2 align="center"><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivansh-agarwal-653978111/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+  <a title="shvnshgrwl1@gmail.com" href="mailto:manoranjansethi97@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
+  <a href="https://wa.me/919660680092" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
+  
+</p>
+<h2>📊  Github Stats</h2>
+<br/>
 
 <div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shvnshgrwl&column=7"/>
-  </a>
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=shvnshgrwl&show_icons=true&theme=midnight-purple" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shvnshgrwl&layout=compact&theme=midnight-purple" />
 </div>
+ <br />
+<!-- <p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Manoranjan-Sethi&theme=rogue" alt="activitygraph" /> </p> -->
+<br />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shvnshgrwl&theme=vision-friendly-dark" alt=""/></p>
+<!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Manoranjan-Sethi&no-frame=true" alt=""/></p> -->
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shvnshgrwl&theme=tokyonight" alt="summarycard"/> </p>
 
-Languages and Tools: 
+<hr />
 
- <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23ED8B00.svg?style=flat-square&logo=javascript&logoColor=white"/> <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23238B00.svg?style=flat-square&logo=typescript&logoColor=white"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white"/>  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/> <img alt="ExpressJS" src ="https://img.shields.io/badge/ExpressjS-%234e434b.svg?style=flat-square&logo=express&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> <img alt="Netlify" src ="https://img.shields.io/badge/Netllify-%234eab.svg?style=flat-square&logo=netlify&logoColor=white"/> <img alt="Heroku" src ="https://img.shields.io/badge/Heroku-%23478a4b.svg?style=flat-square&logo=heroku&logoColor=white"/> 
-![](https://activity-graph.herokuapp.com/graph?username=shvnshgrwl&theme=react-dark&area=true)
-
+<h3 align="center">
+ Show some ❤️ by starring some of the repositories!
+</h3>
+<br>
